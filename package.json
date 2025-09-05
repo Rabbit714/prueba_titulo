@@ -1,0 +1,23 @@
+{
+  "name": "prueba_titulo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabbit714/prueba_titulo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rabbit714/prueba_titulo/issues"
+  },
+  "homepage": "https://github.com/Rabbit714/prueba_titulo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
