@@ -24,14 +24,16 @@ Este proyecto es un espacio de práctica para aprender y dominar la automatizaci
 npm install
 
 
- 🖥️ Ejecutar pruebas
+🖥️ Ejecutar pruebas
 Para correr las pruebas, usa el siguiente comando en tu terminal:
 
-
-
 npx playwright test
+---
+
+
+
 Si prefieres ver el navegador durante la ejecución, añade la opción --headed:
 
+Bash
 
 npx playwright test --headed
----
