@@ -1,0 +1,4 @@
+#ignoracion de modulos
+node_modules
+package-lock.json
+test-results
