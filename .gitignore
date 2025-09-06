@@ -1,4 +1,4 @@
-#ignoracion de modulos
+#ignoracion de modulo
 node_modules
 package-lock.json
 test-results
