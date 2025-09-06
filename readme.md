@@ -1,4 +1,4 @@
-#Hello Npodejs
+#Hello Nodejs
 Markdown
 
 # 🤖 Práctica de Automatización con Playwright
@@ -20,7 +20,7 @@ Este proyecto es un espacio de práctica para aprender y dominar la automatizaci
 1.  Clona el repositorio.
 2.  Instala las dependencias.
 
-```bash
+
 npm install
 
 
@@ -28,9 +28,9 @@ npm install
 Para correr las pruebas, usa el siguiente comando en tu terminal:
 
 
-```bash
+
 npx playwright test
 Si prefieres ver el navegador durante la ejecución, añade la opción --headed:
 
-```bash
+
 npx playwright test --headed
