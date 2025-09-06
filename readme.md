@@ -13,7 +13,7 @@ Este proyecto es un espacio de práctica para aprender y dominar la automatizaci
 * **Node.js**: Entorno de ejecución de JavaScript.
 * **NPM**: Gestor de paquetes.
 
----
+
 
 ### ⚙️ Primeros pasos
 
@@ -34,3 +34,4 @@ Si prefieres ver el navegador durante la ejecución, añade la opción --headed:
 
 
 npx playwright test --headed
+---
